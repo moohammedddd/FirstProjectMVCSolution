@@ -34,6 +34,8 @@ namespace FirstProjectMVC
             });
 
             app.MapGet("/GetMovie", async context => //Variable Segment
+
+
             {
 
 
